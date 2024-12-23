@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinand S</h1>
-<h3 align="center">🎓 **Third-year Computer Science student** at Govt. Model Engineering College, Kerala. 💻 Passionate about building accessible, user-friendly applications with a focus on solving real-world problems.</h3>
+<h3 align="center">🎓 Third-year Computer Science student** at Govt. Model Engineering College, Kerala.<br> 💻 Passionate about building accessible, user-friendly applications with a focus on solving real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supastrikas1&label=Profile%20views&color=0e75b6&style=flat" alt="supastrikas1" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Full-stack development, React, and user-centered design.**
 
-- 📫 How to reach me **- Email: abhinandappu2005@gmail.com - LinkedIn: [linkedin.com/in/abhinands](https://linkedin.com/in/abhinands)**
+- 📫 How to reach me - Email: abhinandappu2005@gmail.com<br> - LinkedIn: [linkedin.com/in/abhinand-s](https://linkedin.com/in/abhinand-s)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
